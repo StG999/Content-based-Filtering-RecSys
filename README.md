@@ -1,5 +1,5 @@
 <a name="2.1"></a>
-### 2.1 Content-based filtering with a neural network
+## Content-based filtering with a neural network
 
 In the collaborative filtering lab, you generated two vectors, a user vector and an item/movie vector whose dot product would predict a rating. The vectors were derived solely from the ratings.   
 
